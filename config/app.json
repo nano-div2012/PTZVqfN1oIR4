@@ -1,6 +1,8 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
-  "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "appName": "EXAMANDA_",
+  "packageName": "com.web2apk.examandamdt00",
+  "orientation": "portrait",
+  "permissions": [
+    "wake_lock"
+  ]
 }
